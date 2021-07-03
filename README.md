@@ -1,7 +1,7 @@
 # Jump_Frog
 
 
-**Using C++ OpenGL and GLUT to simulate a water surface using sine waves, and a frog can be controled by players. The frog can jump and turn direction. Frog will die if jumping into water.**
+**Using C OpenGL and GLUT to simulate a water surface using sine waves, and a frog can be controled by players. The frog can jump and turn direction. Frog will die if jumping into water.**
 
 ### Key
 * left/right: Frog jump angle          (0 - 180)
