@@ -12,3 +12,8 @@
 * +(=)/-: Double/halve wave tesselation
 * ' ' (space): From jump
 * q/Esc: Quit the program
+
+![image](https://github.com/zbmsnj1/Jump_Frog/blob/main/screenshot/jumpfrog.png)
+
+
+![image](https://github.com/zbmsnj1/Jump_Frog/blob/main/screenshot/frog.png)
